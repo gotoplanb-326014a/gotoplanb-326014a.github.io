@@ -1,4 +1,6 @@
 gotoplanb-326014a.github.io
 ===========================
 
-My personal website for MMC3260
+My personal website for MMC3260.
+
+I want to make a personal website explaining fantasy football.
